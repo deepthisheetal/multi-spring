@@ -1,0 +1,5 @@
+projectKey=org.sonatype.mavenbook.multispring:parent
+serverUrl=http://ec2-35-154-159-107.ap-south-1.compute.amazonaws.com:9000
+dashboardUrl=http://ec2-35-154-159-107.ap-south-1.compute.amazonaws.com:9000/dashboard/index/org.sonatype.mavenbook.multispring:parent
+ceTaskId=AWZ8b5fZ8t7t8eq4eiWF
+ceTaskUrl=http://ec2-35-154-159-107.ap-south-1.compute.amazonaws.com:9000/api/ce/task?id=AWZ8b5fZ8t7t8eq4eiWF
